@@ -1,0 +1,62 @@
+.span1{
+    display:block;
+}
+.span2{
+    display:block;
+    margin-right:14px;
+}
+.span3{
+    display:block;
+    margin-right:10px;
+}
+.span4{
+    display:block;
+    margin-right:220px;
+}
+
+.educationAid{
+    /* height: 9060.2763671875px;
+    width: 1920px;
+    left: 44892px;
+    top: 9472px;
+    border-radius: 0px; */
+    width:650px;
+    height:100px;
+    
+}
+
+.para2{
+    color:gray
+}
+
+.banner{
+    width:350px;
+    height:230px;
+    border-radius: 20px;
+    margin-left: 300px;
+}
+
+.button1{
+    margin-right:267px;
+    margin-top:60px;
+    background-color: rgb(255, 81, 0);
+    color: white;
+    border-radius:5px;
+    border-color:rgb(255, 81, 0) ;
+    padding:10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.symbol1{
+    /* background-color:#ff5100; */
+    /* color: white; */
+    margin-left: 15px;
+    font-size: 35px;
+    /* background-color:white; */
+    background-color:wheat;
+    padding: 1px;
+    color: rgb(255, 81, 0);
+    border-color:rgb(255, 81, 0) ;
+    /* padding:0.00001px; */
+}
